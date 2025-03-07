@@ -22,8 +22,9 @@ ENV/
 .DS_Store  # macOS
 Thumbs.db  # Windows
 
-# Image folder is too large
+# files too large
 datasets/faces/final_files/
+datasets/imdb_reviews.tsv
 
 # Environment variables
 .env

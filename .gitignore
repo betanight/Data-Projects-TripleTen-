@@ -23,7 +23,7 @@ ENV/
 Thumbs.db  # Windows
 
 # files too large
-datasets/
+datasets/*
 
 # Environment variables
 .env

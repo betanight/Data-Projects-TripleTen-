@@ -1,0 +1,55 @@
+# Python Bytecode Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.tripletenvenv/
+env/
+ENV/
+*.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE Files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# System Files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Environment variables
+.env
+
+# Data files (if too large to be tracked)
+datasets/
+data/
+
+# Logs
+*.log
+
+# IPython History
+.profile_default/
+ipython_config.py
+
+# Pytest Cache
+.cache/
+
+# Coverage Reports
+.coverage
+*.coverage
+coverage.xml
+nosetests.xml
+test_*.xml
+
+# Build and Distribution files
+build/
+dist/
+*.egg-info/
+
+# SpaCy models (not necessary to track in version control)
+en_core_web_sm/*

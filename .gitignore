@@ -1,3 +1,7 @@
+# Ignore everything in datasets/
+datasets/*
+
+# Ignore other general files
 # Python Bytecode Files
 __pycache__/
 *.pyc
@@ -21,9 +25,6 @@ ENV/
 # System Files
 .DS_Store  # macOS
 Thumbs.db  # Windows
-
-# files too large
-datasets/*
 
 # Environment variables
 .env

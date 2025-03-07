@@ -23,8 +23,7 @@ ENV/
 Thumbs.db  # Windows
 
 # files too large
-datasets/faces/final_files/
-datasets/imdb_reviews.tsv
+datasets/
 
 # Environment variables
 .env

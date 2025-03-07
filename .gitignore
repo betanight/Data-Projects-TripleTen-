@@ -25,10 +25,6 @@ Thumbs.db  # Windows
 # Environment variables
 .env
 
-# Data files (if too large to be tracked)
-datasets/
-data/
-
 # Logs
 *.log
 

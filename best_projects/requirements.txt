@@ -1,5 +1,4 @@
 pandas
-numpy
 scikit-learn
 xgboost
 matplotlib
@@ -10,7 +9,8 @@ scipy
 spacy
 nltk
 tqdm
-pmdarima
 statsmodels
 ipykernel
 jupyter
+numpy==1.21.0
+pmdarima==1.8.3

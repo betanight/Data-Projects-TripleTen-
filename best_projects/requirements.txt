@@ -13,3 +13,4 @@ tqdm
 pmdarima
 statsmodels
 ipykernel
+jupyter

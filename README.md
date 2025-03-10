@@ -154,7 +154,7 @@ Here are some example outputs and visualizations from the notebooks:
 ### 📈 Sarimax results from Time Series Forecasting
 <img width="627" alt="Screenshot 2025-03-10 at 2 25 11 PM" src="https://github.com/user-attachments/assets/5a853bc6-2907-42dd-b5e6-c148ddc8b1dc" />
 
-### 📊 Model Performance Comparison
+### 📊 Feature Analysis found in Final.ipynb
 ![image](https://github.com/user-attachments/assets/ecea7e23-acae-410e-a8b5-9551944de628)
 
 ---

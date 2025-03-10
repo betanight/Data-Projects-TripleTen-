@@ -152,7 +152,7 @@ jupyter notebook notebooks/time.ipynb
 Here are some example outputs and visualizations from the notebooks:
 
 ### 📈 Example Graph from Time Series Forecasting
-![Time Series Graph](https://via.placeholder.com/600x300.png?text=Example+Graph)  
+<img width="627" alt="Screenshot 2025-03-10 at 2 25 11 PM" src="https://github.com/user-attachments/assets/5a853bc6-2907-42dd-b5e6-c148ddc8b1dc" />
 
 ### 📊 Model Performance Comparison
 ![Model Performance](https://via.placeholder.com/600x300.png?text=Model+Comparison)  

@@ -12,5 +12,5 @@ tqdm
 statsmodels
 ipykernel
 jupyter
-numpy==1.21.0
+numpy
 pmdarima==1.8.3

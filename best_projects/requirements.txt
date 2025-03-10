@@ -1,22 +1,28 @@
+# Core Data Science Libraries
 pandas>=2.2,<2.3
 numpy>=1.23,<2.1
 scipy>=1.10,<1.14
 scikit-learn>=1.6,<1.7
 statsmodels>=0.14,<0.15
 
+# Machine Learning Models
 xgboost>=2.0,<2.1
 lightgbm>=4.3,<4.4
 shap>=0.45,<0.46
 
-pmdarima==1.8.3
+# Time Series Forecasting
+pmdarima==1.8.3  # Locked to prevent issues
 
+# Visualization
 matplotlib>=3.8,<3.9
 seaborn>=0.13,<0.14
 
+# Natural Language Processing
 spacy>=3.7,<3.8
 nltk>=3.8,<3.9
 
-ipython>=8.25,<8.26
+# Jupyter & Interactive Tools
+ipython>=8.18,<8.19  # Changed from 8.25 (latest available)
 ipykernel>=6.29,<6.30
 jupyter>=1.0,<1.1
 tqdm>=4.66,<4.67

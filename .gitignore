@@ -64,10 +64,6 @@ git add .gitignore
 git commit -m "Updated .gitignore to ignore large files"
 git push origin main
 
-
-
-exit()
-
 echo "best_projects/tripletenvenv/" >> .gitignore
 echo "*.dylib" >> .gitignore
 echo "*.so" >> .gitignore

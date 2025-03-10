@@ -11,6 +11,10 @@ env/
 ENV/
 *.env
 
+# Ignore large Python packages
+torch
+transformers
+
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
 

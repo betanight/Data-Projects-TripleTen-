@@ -121,8 +121,8 @@ jupyter notebook notebooks/text.ipynb
 📌 **Goal:** Predict future trends using time series data.  
 📊 **Methods:**  
 ✔️ Feature Engineering (Lag Features, Seasonal Trends)  
-✔️ Model Training (Auto-ARIMA, SARIMA, Gradient Boosting)  
-✔️ Performance Evaluation (RMSE, MAPE)  
+✔️ Model Training (Auto-ARIMA, Gradient Boosting)  
+✔️ Performance Evaluation (RMSE)  
 
 🔹 **How to Run:**  
 ```sh

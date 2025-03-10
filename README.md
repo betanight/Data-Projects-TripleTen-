@@ -102,16 +102,6 @@ jupyter notebook notebooks/final.ipynb
 
 ---
 
-### 4️⃣ High-Risk Customer Analysis (`high_risk_customers.csv`)
-📌 **Goal:** Identify high-risk customers using predictive modeling.  
-📊 **Methods:**  
-✔️ Customer segmentation  
-✔️ Risk assessment modeling  
-✔️ Predictive analytics  
-
-🔹 **Dataset:** `datasets/high_risk_customers.csv`
-
----
 
 ### 5️⃣ Text Analysis (`text.ipynb`)
 📌 **Goal:** NLP-based text analysis using various linguistic models.  

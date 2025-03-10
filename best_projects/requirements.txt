@@ -11,7 +11,7 @@ lightgbm>=4.3,<4.4
 shap>=0.45,<0.46
 
 # Time Series Forecasting
-pmdarima==1.8.3  # Locked to prevent issues
+pmdarima
 
 # Visualization
 matplotlib>=3.8,<3.9

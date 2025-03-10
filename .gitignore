@@ -49,3 +49,4 @@ dist/
 
 # SpaCy models (not necessary to track in version control)
 en_core_web_sm/*
+best_projects/tripletenvenv/

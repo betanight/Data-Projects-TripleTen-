@@ -1,7 +1,4 @@
-Here’s the **README.md** file in **GitHub Markdown** format, ready to copy and paste:
-
-
-# 📘 Best Projects - TripleTen
+# 📘 Five Projects - TripleTen
 
 This repository contains multiple **data science projects**, organized into **Jupyter Notebooks** with various machine learning models and analyses. Below is an overview of how to set up the environment, descriptions of each notebook, and dataset details.
 

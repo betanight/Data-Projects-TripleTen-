@@ -155,12 +155,3 @@ jupyter notebook notebooks/time.ipynb
 If you encounter any issues, feel free to:  
 📌 **Create an issue** in the repository  
 📌 **Reach out via GitHub Discussions**  
-
----
-
-This **README** ensures that anyone cloning your repository can quickly set up and run the notebooks while understanding their purpose. 🚀
-```
-
----
-
-This is fully **GitHub Markdown** formatted, so you can just copy and paste it into your `README.md` file. Let me know if you need any changes! 🚀

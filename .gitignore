@@ -55,3 +55,21 @@ dist/
 en_core_web_sm/*
 best_projects/tripletenvenv/
 best_projects/tripletenvenv/
+best_projects/tripletenvenv/
+*.dylib
+*.so
+*.py # Only if you dont want raw scripts tracked
+echo "*.js" >> .gitignore
+git add .gitignore
+git commit -m "Updated .gitignore to ignore large files"
+git push origin main
+
+
+
+exit()
+
+echo "best_projects/tripletenvenv/" >> .gitignore
+echo "*.dylib" >> .gitignore
+echo "*.so" >> .gitignore
+echo "*.py" >> .gitignore  # Only if you dont want raw scripts tracked
+*.js

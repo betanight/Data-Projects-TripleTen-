@@ -73,3 +73,8 @@ echo "*.dylib" >> .gitignore
 echo "*.so" >> .gitignore
 echo "*.py" >> .gitignore  # Only if you dont want raw scripts tracked
 *.js
+best_projects/tripletenvenv/
+*.dylib
+*.so
+*.py
+*.js
